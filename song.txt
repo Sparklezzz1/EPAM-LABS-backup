@@ -9,7 +9,6 @@ Joannis Altenstaig Mindelhaimensis
 Opus pro conficiundis epistolis
 
 De generibus ep[isto]larum. 
-<<<<<<< HEAD
-=======
-De vocabulis q[uae] abhorrent a latinitate////
->>>>>>> feature
+De vocabulis q[uae] abhorrent a latinitate
+lirus opum guid 
+checkpoint them
